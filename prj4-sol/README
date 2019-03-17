@@ -2,5 +2,8 @@ Name:		Chaitanya Khoje
 B-Number:	B00714581
 Email:		ckhoje1@binghamton.edu
 
-Add text here as needed.
+The aims of this project are as follows:
 
+To introduce you to building a dynamic web set using only server-side programming.
+To expose you to the use of mustache templates.
+To enable you to build a web site based on remote web services.
