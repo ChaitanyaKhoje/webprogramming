@@ -1,0 +1,29 @@
+.error {
+  color: red;
+  display: block;
+}
+
+.control {
+  margin: 1em;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.search-term {
+  color: green;
+}
+
+.result {
+  border: 1px solid black;
+  width: 700px;
+  padding: 1em;
+  margin: 0px 300px 10px 10px;
+  display: inline-block;
+}
+
+.result-name {
+  color: blue;
+}
+

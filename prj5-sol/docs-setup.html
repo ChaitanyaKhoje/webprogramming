@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Docs App Setup</title>
+    <link href="styles/style.css" rel="stylesheet"/>
+  </head>
+  <body>
+    <div id="root"></div>
+    <h1>Docs App Setup</h1>
+    <form method="GET" action="docs-app.html">
+      <label class="label"><strong>Docs Web Services URL:</strong>
+        <input type="url" size="50" name="ws-url"
+	       value="http://zdu.binghamton.edu:1235" /> <br>
+      </label>
+      <br>
+      <input class="control" type="submit" value="Submit">
+    </form>
+    <!-- dummy link used to force parceljs to link in users-app -->
+    <a href="docs-app.html"></a> 
+  </body>
+</html>
