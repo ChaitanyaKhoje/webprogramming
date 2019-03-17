@@ -2,3 +2,7 @@ Name:		Chaitanya Khoje
 B-Number:	B00714581
 Email:		ckhoje1@binghamton.edu
 
+The aims of this project are as follows:
+To introduce you to building a dynamic web site using only client-side programming.
+To expose you to the use of the popular reactjs library.
+To enable you to build a single-page web app which accesses remote web services directly from a browser.
